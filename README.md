@@ -12,4 +12,4 @@ Potential updates:
 - 1 player mode
 - difficulty options
 
-![screenshot from the game](".screenshot.png")
+![screenshot from the game](".gameDemo.png")
